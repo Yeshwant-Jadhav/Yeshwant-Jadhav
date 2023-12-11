@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yeshwant-Jadhav
-- 👀 I’m interested in AWS,AZURE
+- 👀 I’m interested in Cloud,DevOps,AWS,AZURE
 - 🌱 I’m currently learning Cloud Engineering
 
 - 📫 How to reach me -yeshwant1502@gmail.com
