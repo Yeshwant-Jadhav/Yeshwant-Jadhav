@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwantjadhav" alt="yeshwantjadhav" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analyst , DevOps**
+- 🌱 I’m currently learning **DevOps,AWS**
 
 - 💬 Ask me about **AWS,DevOps,CI/CD,Terraform,SQL,Python,Data Analyst**
 
