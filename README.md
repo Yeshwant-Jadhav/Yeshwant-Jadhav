@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Analyst , DevOps**
 
-- 💬 Ask me about **AWS,DevOps,CI/CD,Terraform,Data Analyst**
+- 💬 Ask me about **AWS,DevOps,CI/CD,Terraform,SQL,Python,Data Analyst**
 
 - 📫 How to reach me **yeshwant1502@gmail.com**
 
