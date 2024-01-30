@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **yeshwant1502@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10WN-GQPA6Qnhf4b2UVsCigh9to421yNQ/view?usp=sharing](https://drive.google.com/file/d/10WN-GQPA6Qnhf4b2UVsCigh9to421yNQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
